@@ -3,9 +3,6 @@
 
 A PyTorch implementation of Generative Adversarial Networks (GANs) trained on the MNIST dataset to generate handwritten digits.
 
-© 2024 Noushin Mirnezami. All Rights Reserved.
-
-**IMPORTANT**: This code is provided for educational purposes only. No commercial use, reproduction, or distribution is permitted without explicit permission from the author. Unauthorized copying or plagiarism of this project is strictly prohibited.
 
 ## Project Overview
 
@@ -103,4 +100,9 @@ The model generates MNIST-like digits after training. Generated samples are save
 - Implements label smoothing (0.8-1.0 for real, 0.0-0.2 for fake)
 - Includes deterministic training setup with fixed random seeds
 - Automatic GPU utilization when available
+
+---
+© 2024 Noushin Mirnezami. All Rights Reserved.
+
+**IMPORTANT**: This code is provided for educational purposes only. No commercial use, reproduction, or distribution is permitted without explicit permission from the author. Unauthorized copying or plagiarism of this project is strictly prohibited.
 
